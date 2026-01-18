@@ -58,7 +58,7 @@ The application digitizes the **Internet Access Request Form** used internally i
 
 1. Clone the repository:
    ```bash
-   git clone <your-github-repository-link>
+   git clone <https://github.com/swatils/HAL-INTERNSHIP-WEBSITE>
 2.Open the project folder
 
 3.Double-click login.html
